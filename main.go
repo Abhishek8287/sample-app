@@ -16,8 +16,6 @@
 
 package main
 
-package main
-
 import (
     "image"
     "image/color"
